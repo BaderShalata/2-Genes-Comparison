@@ -1,2 +1,3 @@
 # 2-Genes-Comparison
-I was asked by a genome medical doctor to develop a program to make it easier for him to find the common genes in 2 excel files from 2 different persons, after that I provided the full information of that common gene (The excel row)
+I was asked by a genome medical doctor to develop a program to make it easier for him to find the common genes in 2 excel files from 2 different persons, after that I provided the full information that is already given from the excel files of that common gene from both sides(Husband and Wife).
+With the help of this block of code, its now easy to detect common genes and compare the mutations between the 2 sets of data (Husband & Wife) as after the common gene is found, the program finds the gene in both ends and extracts the data of that row to 2 new seperate files, which then the user(Doctor) can just read and check and detect any mutations.
